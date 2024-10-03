@@ -1,0 +1,10 @@
+@startuml
+!theme materia
+left to right direction
+Me -- (CRUD ROUTINE)
+Me -- (Aply ROUTINE)
+Me -- (Review ROUTINE) 
+Me -- (CRUD Task)
+Me -- (CRUD Goal) 
+
+@enduml
